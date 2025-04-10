@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1536
     height: 772.8
   m_ShowMode: 4
-  m_Title: Hierarchy
+  m_Title: Scene
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -403,14 +403,14 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\gohke\OneDrive\Desktop\CCN game\CCN
+  m_LastProjectPath: C:\Users\gohke\OneDrive\Desktop\CCN game\CNN\CCN
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 79}
-    m_SelectedIDs: 64590000
-    m_LastClickedID: 22884
-    m_ExpandedIDs: 000000006459000000ca9a3bffffff7f
+    m_SelectedIDs: 8e5a0000
+    m_LastClickedID: 23182
+    m_ExpandedIDs: 000000008e5a000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -438,7 +438,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 
+    m_ExpandedIDs: 000000008e5a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -465,7 +465,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000ee820000c86e0000266b0000a66e00000a710000fa6900004a6a0000586a00008abf00008ac800005ec8000098cf000090cf0000accf000084cf00001272000010740000d20b0100042a00009a3e0200588700008a7e0000ba7f0000a67e0000de9300001c930000a4700000585a000084acffff5af70000ce7c0000000000005aad0100feae0100c8bb010058c60100c085000056680000765b00003e0201003c8e00003c6d00004e6b0000049000000eb000009e7200009072000034750000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -533,7 +533,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 16fbffff
+      m_ExpandedIDs: a6f5ffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1193,7 +1193,7 @@ MonoBehaviour:
   m_Position:
     m_Target: {x: 667.9062, y: 0, z: 636.9681}
     speed: 2
-    m_Value: {x: 667.903, y: -0.0016837373, z: 636.9653}
+    m_Value: {x: 667.9062, y: 0, z: 636.9681}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1241,11 +1241,11 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
     speed: 2
-    m_Value: {x: -0.22414678, y: 0.43026105, z: -0.111193046, w: -0.8673364}
+    m_Value: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
   m_Size:
-    m_Target: 297.05377
+    m_Target: 1.0792253
     speed: 2
-    m_Value: 284.262
+    m_Value: 1.0327514
   m_Ortho:
     m_Target: 0
     speed: 2
